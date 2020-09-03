@@ -72,7 +72,7 @@
     "jscs-jsdoc": "^2.0.0",
     "jscs-preset-wikimedia": "~1.0.0",
     "jsonlint": "~1.6.2",
-    "lodash": "~3.10.0",
+    "lodash": "~4.17.17",
     "minimatch": "~3.0.0",
     "natural-compare": "~1.2.2",
     "pathval": "~0.1.1",
@@ -85,7 +85,7 @@
     "to-single-quotes": "^2.0.0",
     "vow": "~0.4.8",
     "vow-fs": "~0.3.4",
-    "xmlbuilder": "^3.1.0"
+    "xmlbuilder": "^4.2.1"
   },
   "devDependencies": {
     "chai": "^3.3.0",
